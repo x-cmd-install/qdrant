@@ -1,0 +1,68 @@
+about:
+  description:
+  |
+    Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+  license: Apache-2.0
+  homepage: https://qdrant.tech
+  head: 6ab21ca
+  archived: false
+  latestVersion: v1.19.0
+  collectedAt: 2026-09-04T04:59:03Z
+timeline:
+  created: 2020-05-30
+  lastCommit: 2026-09-03
+  lastRelease: 2026-08-05
+popularity:
+  star: 34377
+  watcher: 162
+  fork: 2635
+  release: 116
+  contributor: 206
+  pullRequest: 1257
+  issue: 1986
+language:
+  Rust: 17710379
+  Python: 1877365
+  Shell: 98850
+  C: 41730
+  HTML: 21533
+  Nix: 12069
+  Dockerfile: 8868
+  Just: 2387
+  JavaScript: 1502
+  Mermaid: 970
+  RenderScript: 1
+totalBytes: 19775654
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 192
+    openPR: 67
+    closedIssue: 19
+    openIssue: 35
+    commit: 205
+  last90d:
+    since: 2026-06-06
+    release: 2
+    mergedPR: 688
+    openPR: 122
+    closedIssue: 80
+    openIssue: 73
+    commit: 721
+  last180d:
+    since: 2026-03-08
+    release: 6
+    mergedPR: 1399
+    openPR: 163
+    closedIssue: 132
+    openIssue: 123
+    commit: 1398
+  last360d:
+    since: 2025-09-09
+    release: 12
+    mergedPR: 2151
+    openPR: 189
+    closedIssue: 213
+    openIssue: 167
+    commit: 2127
