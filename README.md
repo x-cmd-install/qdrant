@@ -12,6 +12,18 @@ Qdrant - High-performance, massive-scale Vector Database and Vector Search Engin
 x install qdrant
 ```
 
+## Code insight
+
+Total: **873,585** lines of code across **2159** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 429,335 | 0 | 0 | 60 |
+| Rust | 390,078 | 16,846 | 53,016 | 1824 |
+| Python | 41,005 | 3,580 | 7,641 | 229 |
+| Protobuf | 2,831 | 1,474 | 524 | 18 |
+| Yaml | 2,822 | 462 | 218 | 28 |
+
 ## Source
 
 - **Upstream**: <https://github.com/qdrant/qdrant>
@@ -23,6 +35,25 @@ x install qdrant
 - **Latest**: `v1.19.1` (2026-09-04)
 - **Last commit**: 2026-09-03
 - **Assets in release**: 8
+
+## Popularity
+
+- **Stars**: 34,487 · **Forks**: 2,656 · **Open issues**: 2,017 · **Contributors**: 205
+
+## Totals (cumulative)
+
+- **Releases**: 117 · **Merged PRs**: 6813 · **Open PRs**: 213 · **Closed issues**: 1524 · **Open issues**: 493 · **Commits**: 6899
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 193 | 63 | 23 | 43 | 144 |
+| last60d | 2026-07-12 | 3 | 430 | 95 | 53 | 66 | 363 |
+| 90d | 2026-06-12 | 3 | 681 | 112 | 81 | 80 | 646 |
+| last180d | 2026-03-14 | 7 | 1400 | 158 | 144 | 132 | 1343 |
+| 360d | 2025-09-15 | 13 | 2182 | 187 | 227 | 179 | 2103 |
+| last720d | 2024-09-20 | 35 | 3695 | 209 | 449 | 308 | 3591 |
 
 ## Release assets
 
@@ -37,33 +68,13 @@ x install qdrant
 | [qdrant-x86_64.AppImage](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-x86_64.AppImage) | 33.3 MiB | `other` |
 | [qdrant_1.19.1-1_amd64.deb](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant_1.19.1-1_amd64.deb) | 23.3 MiB | `runtime/deb/amd64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 34,483 · **Forks**: 2,655 · **Open issues**: 2,016 · **Contributors**: 205
+Reported by **12** distros on [repology.org](https://repology.org/project/qdrant). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 117 · **Merged PRs**: 6813 · **Open PRs**: 209 · **Closed issues**: 1524 · **Open issues**: 492 · **Commits**: 6899
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 193 | 59 | 23 | 42 | 144 |
-| 90d | 2026-06-12 | 3 | 681 | 108 | 81 | 79 | 646 |
-| 360d | 2025-09-15 | 13 | 2182 | 183 | 227 | 178 | 2103 |
-
-## Code size
-
-Total: **873,585** lines of code across **2159** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 429,335 | 0 | 0 | 60 |
-| Rust | 390,078 | 16,846 | 53,016 | 1824 |
-| Python | 41,005 | 3,580 | 7,641 | 229 |
-| Protobuf | 2,831 | 1,474 | 524 | 18 |
-| Yaml | 2,822 | 462 | 218 | 28 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.18.2` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -74,4 +85,4 @@ Install metadata for qdrant lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:16:52Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:11:38Z._
