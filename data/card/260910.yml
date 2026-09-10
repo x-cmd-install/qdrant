@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.19.1"
   latestRelease: "v1.19.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:11:17Z
+  collectedAt: 2026-09-10T23:41:51Z
 timeline:
   created: 2020-05-30
   lastCommit: 2026-09-03
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 
 popularity:
-  star: 34487
+  star: 34489
   watcher: 162
-  fork: 2656
+  fork: 2658
   release: 117
   contributor: 205
-  pullRequest: 8110
+  pullRequest: 8111
   issue: 2017
 language:
   Rust: 17710379
@@ -40,7 +40,7 @@ recent:
     since: 2026-08-11
     release: 1
     mergedPR: 193
-    openPR: 63
+    openPR: 64
     closedIssue: 23
     openIssue: 43
     commit: 144
@@ -48,7 +48,7 @@ recent:
     since: 2026-07-12
     release: 3
     mergedPR: 430
-    openPR: 95
+    openPR: 96
     closedIssue: 53
     openIssue: 66
     commit: 363
@@ -56,7 +56,7 @@ recent:
     since: 2026-06-12
     release: 3
     mergedPR: 681
-    openPR: 112
+    openPR: 113
     closedIssue: 81
     openIssue: 80
     commit: 646
@@ -64,7 +64,7 @@ recent:
     since: 2026-03-14
     release: 7
     mergedPR: 1400
-    openPR: 158
+    openPR: 159
     closedIssue: 144
     openIssue: 132
     commit: 1343
@@ -72,7 +72,7 @@ recent:
     since: 2025-09-15
     release: 13
     mergedPR: 2182
-    openPR: 187
+    openPR: 188
     closedIssue: 227
     openIssue: 179
     commit: 2103
@@ -80,20 +80,20 @@ recent:
     since: 2024-09-20
     release: 35
     mergedPR: 3695
-    openPR: 209
+    openPR: 210
     closedIssue: 449
     openIssue: 308
     commit: 3591
 total:
   release: 117
   mergedPR: 6813
-  openPR: 213
+  openPR: 214
   closedIssue: 1524
   openIssue: 493
   commit: 6899
 ---
 path: /home/runner/.x-repo/github.com/qdrant/qdrant
-collectedAt: 2026-09-10T20:11:31Z
+collectedAt: 2026-09-10T23:42:11Z
 loc:
   Json:
     code: 429335
