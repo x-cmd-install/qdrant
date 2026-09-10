@@ -23,23 +23,35 @@ x install qdrant
 - **Latest**: `v1.19.1` (2026-09-04)
 - **Last commit**: 2026-09-03
 - **Assets in release**: 8
-- **Published**: 2026-09-04T07:59:14Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [qdrant-aarch64-apple-darwin.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-aarch64-apple-darwin.tar.gz) | 26.7 MiB | `native/darwin/arm64` |
+| [qdrant-aarch64-unknown-linux-musl.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-aarch64-unknown-linux-musl.tar.gz) | 28.9 MiB | `native/linux/arm64/musl` |
+| [qdrant-x86_64-apple-darwin.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-x86_64-apple-darwin.tar.gz) | 29.2 MiB | `native/darwin/x64` |
+| [qdrant-x86_64-pc-windows-msvc.zip](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-x86_64-pc-windows-msvc.zip) | 28.3 MiB | `native/win/x64` |
+| [qdrant-x86_64-unknown-linux-gnu.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-x86_64-unknown-linux-gnu.tar.gz) | 30.7 MiB | `native/linux/x64/glibc` |
+| [qdrant-x86_64-unknown-linux-musl.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-x86_64-unknown-linux-musl.tar.gz) | 30.8 MiB | `native/linux/x64/musl` |
+| [qdrant-x86_64.AppImage](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-x86_64.AppImage) | 33.3 MiB | `other` |
+| [qdrant_1.19.1-1_amd64.deb](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant_1.19.1-1_amd64.deb) | 23.3 MiB | `runtime/deb/amd64` |
 
 ## Popularity
 
-- **Stars**: 34,467 · **Forks**: 2,653 · **Open issues**: 2,013 · **Contributors**: 205
+- **Stars**: 34,483 · **Forks**: 2,655 · **Open issues**: 2,016 · **Contributors**: 205
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 6808 · **Open PRs**: 210 · **Closed issues**: 1518 · **Open issues**: 495 · **Commits**: 6899
+- **Releases**: 117 · **Merged PRs**: 6813 · **Open PRs**: 209 · **Closed issues**: 1524 · **Open issues**: 492 · **Commits**: 6899
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 188 | 60 | 21 | 41 | 144 |
-| 90d | 2026-06-12 | 3 | 676 | 109 | 79 | 78 | 646 |
-| 360d | 2025-09-15 | 13 | 2177 | 184 | 224 | 178 | 2103 |
+| 30d | 2026-08-11 | 1 | 193 | 59 | 23 | 42 | 144 |
+| 90d | 2026-06-12 | 3 | 681 | 108 | 81 | 79 | 646 |
+| 360d | 2025-09-15 | 13 | 2182 | 183 | 227 | 178 | 2103 |
 
 ## Code size
 
@@ -58,8 +70,8 @@ Total: **873,585** lines of code across **2159** files in the top 5 languages.
 Install metadata for qdrant lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `qdrant` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/qdrant.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/qdrant.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:45:56Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:16:52Z._

@@ -4,7 +4,7 @@
 
 Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 
-![qdrant](https://repo.x-cmd.io/qdrant.svg)
+![qdrant](https://repo.x-cmd.io/qdrant.svg?lang=zh)
 
 ## 安装
 
@@ -23,23 +23,35 @@ x install qdrant
 - **最新版本**: `v1.19.1` (2026-09-04)
 - **最近提交**: 2026-09-03
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-09-04T07:59:14Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [qdrant-aarch64-apple-darwin.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-aarch64-apple-darwin.tar.gz) | 26.7 MiB | `native/darwin/arm64` |
+| [qdrant-aarch64-unknown-linux-musl.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-aarch64-unknown-linux-musl.tar.gz) | 28.9 MiB | `native/linux/arm64/musl` |
+| [qdrant-x86_64-apple-darwin.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-x86_64-apple-darwin.tar.gz) | 29.2 MiB | `native/darwin/x64` |
+| [qdrant-x86_64-pc-windows-msvc.zip](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-x86_64-pc-windows-msvc.zip) | 28.3 MiB | `native/win/x64` |
+| [qdrant-x86_64-unknown-linux-gnu.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-x86_64-unknown-linux-gnu.tar.gz) | 30.7 MiB | `native/linux/x64/glibc` |
+| [qdrant-x86_64-unknown-linux-musl.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-x86_64-unknown-linux-musl.tar.gz) | 30.8 MiB | `native/linux/x64/musl` |
+| [qdrant-x86_64.AppImage](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-x86_64.AppImage) | 33.3 MiB | `other` |
+| [qdrant_1.19.1-1_amd64.deb](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant_1.19.1-1_amd64.deb) | 23.3 MiB | `runtime/deb/amd64` |
 
 ## 流行度
 
-- **Star**: 34,467 · **Fork**: 2,653 · **开放 issue**: 2,013 · **贡献者**: 205
+- **Star**: 34,483 · **Fork**: 2,655 · **开放 issue**: 2,016 · **贡献者**: 205
 
 ## 累计统计
 
-- **发布数**: 117 · **已合并 PR**: 6808 · **开放 PR**: 210 · **已关闭 issue**: 1518 · **开放 issue**: 495 · **提交数**: 6899
+- **发布数**: 117 · **已合并 PR**: 6813 · **开放 PR**: 209 · **已关闭 issue**: 1524 · **开放 issue**: 492 · **提交数**: 6899
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 188 | 60 | 21 | 41 | 144 |
-| 90d | 2026-06-12 | 3 | 676 | 109 | 79 | 78 | 646 |
-| 360d | 2025-09-15 | 13 | 2177 | 184 | 224 | 178 | 2103 |
+| 30d | 2026-08-11 | 1 | 193 | 59 | 23 | 42 | 144 |
+| 90d | 2026-06-12 | 3 | 681 | 108 | 81 | 79 | 646 |
+| 360d | 2025-09-15 | 13 | 2182 | 183 | 227 | 178 | 2103 |
 
 ## 代码规模
 
@@ -62,4 +74,4 @@ qdrant 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:45:56Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:16:52Z._
