@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.19.1"
   latestRelease: "v1.19.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:44:00Z
+  collectedAt: 2026-09-11T20:14:39Z
 timeline:
   created: 2020-05-30
   lastCommit: 2026-09-03
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 
 popularity:
-  star: 34492
+  star: 34500
   watcher: 162
-  fork: 2658
+  fork: 2664
   release: 117
   contributor: 205
-  pullRequest: 8111
-  issue: 2017
+  pullRequest: 8122
+  issue: 2024
 language:
   Rust: 17710379
   Python: 1877365
@@ -39,61 +39,61 @@ recent:
   last30d:
     since: 2026-08-12
     release: 1
-    mergedPR: 188
-    openPR: 59
-    closedIssue: 24
-    openIssue: 39
+    mergedPR: 190
+    openPR: 66
+    closedIssue: 25
+    openIssue: 45
     commit: 144
   last60d:
     since: 2026-07-13
     release: 3
-    mergedPR: 416
-    openPR: 94
-    closedIssue: 52
-    openIssue: 65
+    mergedPR: 418
+    openPR: 101
+    closedIssue: 53
+    openIssue: 71
     commit: 363
   last90d:
     since: 2026-06-13
     release: 3
-    mergedPR: 682
-    openPR: 111
-    closedIssue: 82
-    openIssue: 79
+    mergedPR: 684
+    openPR: 118
+    closedIssue: 83
+    openIssue: 85
     commit: 646
   last180d:
     since: 2026-03-15
     release: 7
-    mergedPR: 1399
-    openPR: 157
-    closedIssue: 144
-    openIssue: 130
+    mergedPR: 1401
+    openPR: 164
+    closedIssue: 146
+    openIssue: 135
     commit: 1343
   last360d:
     since: 2025-09-16
     release: 13
-    mergedPR: 2181
-    openPR: 186
-    closedIssue: 228
-    openIssue: 178
+    mergedPR: 2183
+    openPR: 193
+    closedIssue: 230
+    openIssue: 183
     commit: 2103
   last720d:
     since: 2024-09-21
     release: 35
-    mergedPR: 3696
-    openPR: 208
-    closedIssue: 450
-    openIssue: 307
+    mergedPR: 3698
+    openPR: 215
+    closedIssue: 452
+    openIssue: 312
     commit: 3591
 total:
   release: 117
-  mergedPR: 6814
-  openPR: 212
-  closedIssue: 1525
-  openIssue: 492
+  mergedPR: 6816
+  openPR: 219
+  closedIssue: 1527
+  openIssue: 497
   commit: 6899
 ---
 path: /home/runner/.x-repo/github.com/qdrant/qdrant
-collectedAt: 2026-09-11T04:44:15Z
+collectedAt: 2026-09-11T20:14:54Z
 loc:
   Json:
     code: 429335
