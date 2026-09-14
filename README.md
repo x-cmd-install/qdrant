@@ -38,22 +38,22 @@ Total: **873,585** lines of code across **2159** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 34,515 · **Forks**: 2,667 · **Open issues**: 2,025 · **Contributors**: 205
+- **Stars**: 34,525 · **Forks**: 2,670 · **Open issues**: 2,026 · **Contributors**: 205
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 6820 · **Open PRs**: 218 · **Closed issues**: 1527 · **Open issues**: 498 · **Commits**: 6899
+- **Releases**: 117 · **Merged PRs**: 6824 · **Open PRs**: 221 · **Closed issues**: 1527 · **Open issues**: 499 · **Commits**: 6899
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 181 | 64 | 25 | 45 | 144 |
-| last60d | 2026-07-15 | 3 | 400 | 98 | 51 | 72 | 363 |
-| 90d | 2026-06-15 | 3 | 670 | 117 | 83 | 86 | 646 |
-| last180d | 2026-03-17 | 7 | 1387 | 163 | 144 | 135 | 1343 |
-| 360d | 2025-09-18 | 13 | 2184 | 192 | 229 | 184 | 2103 |
-| last720d | 2024-09-23 | 35 | 3686 | 214 | 450 | 313 | 3591 |
+| 30d | 2026-08-15 | 1 | 178 | 66 | 25 | 46 | 94 |
+| last60d | 2026-07-16 | 3 | 392 | 100 | 50 | 70 | 297 |
+| 90d | 2026-06-16 | 3 | 668 | 118 | 83 | 86 | 592 |
+| last180d | 2026-03-18 | 7 | 1381 | 166 | 144 | 136 | 1295 |
+| 360d | 2025-09-19 | 13 | 2187 | 195 | 228 | 185 | 2086 |
+| last720d | 2024-09-24 | 34 | 3687 | 217 | 447 | 314 | 3577 |
 
 ## Release assets
 
@@ -68,14 +68,6 @@ Total: **873,585** lines of code across **2159** files in the top 5 languages.
 | [qdrant-x86_64.AppImage](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant-x86_64.AppImage) | 33.3 MiB | `other` |
 | [qdrant_1.19.1-1_amd64.deb](https://github.com/qdrant/qdrant/releases/download/v1.19.1/qdrant_1.19.1-1_amd64.deb) | 23.3 MiB | `runtime/deb/amd64` |
 
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/qdrant). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.18.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for qdrant lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `qdrant` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +77,4 @@ Install metadata for qdrant lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:42:51Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:50:35Z._
