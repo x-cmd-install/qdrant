@@ -4,7 +4,7 @@
 
 Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 
-![qdrant](https://repo.x-cmd.io/qdrant.svg)
+[![x-cmd/install — qdrant Code Quality Monitoring Repo Card](https://repo.x-cmd.io/qdrant.svg)](https://x-cmd.com/install/qdrant)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **873,585** lines of code across **2159** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 34,650 · **Forks**: 2,682 · **Open issues**: 2,029 · **Contributors**: 205
+- **Stars**: 34,694 · **Forks**: 2,685 · **Open issues**: 2,030 · **Contributors**: 205
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 6854 · **Open PRs**: 230 · **Closed issues**: 1527 · **Open issues**: 502 · **Commits**: 6899
+- **Releases**: 117 · **Merged PRs**: 6858 · **Open PRs**: 236 · **Closed issues**: 1527 · **Open issues**: 503 · **Commits**: 6899
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 184 | 74 | 22 | 48 | 94 |
-| last60d | 2026-07-20 | 2 | 388 | 104 | 50 | 71 | 297 |
-| 90d | 2026-06-20 | 3 | 670 | 127 | 78 | 85 | 592 |
-| last180d | 2026-03-22 | 7 | 1393 | 172 | 144 | 138 | 1295 |
-| 360d | 2025-09-23 | 13 | 2202 | 204 | 226 | 186 | 2086 |
-| last720d | 2024-09-28 | 34 | 3714 | 226 | 445 | 316 | 3577 |
+| 30d | 2026-08-21 | 1 | 174 | 80 | 22 | 44 | 94 |
+| last60d | 2026-07-22 | 2 | 380 | 111 | 48 | 72 | 297 |
+| 90d | 2026-06-22 | 3 | 657 | 133 | 78 | 85 | 592 |
+| last180d | 2026-03-24 | 7 | 1380 | 178 | 144 | 139 | 1295 |
+| 360d | 2025-09-25 | 13 | 2194 | 210 | 224 | 185 | 2086 |
+| last720d | 2024-09-30 | 34 | 3710 | 232 | 443 | 317 | 3577 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for qdrant lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:36:24Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:54:27Z._

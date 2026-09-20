@@ -4,7 +4,7 @@
 
 Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 
-![qdrant](https://repo.x-cmd.io/qdrant.svg?lang=zh)
+[![x-cmd/install — qdrant Code Quality Monitoring Repo Card](https://repo.x-cmd.io/qdrant.svg?lang=zh)](https://x-cmd.com/install/qdrant)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install qdrant
 
 ## 流行度
 
-- **Star**: 34,650 · **Fork**: 2,682 · **开放 issue**: 2,029 · **贡献者**: 205
+- **Star**: 34,694 · **Fork**: 2,685 · **开放 issue**: 2,030 · **贡献者**: 205
 
 ## 累计统计
 
-- **发布数**: 117 · **已合并 PR**: 6854 · **开放 PR**: 230 · **已关闭 issue**: 1527 · **开放 issue**: 502 · **提交数**: 6899
+- **发布数**: 117 · **已合并 PR**: 6858 · **开放 PR**: 236 · **已关闭 issue**: 1527 · **开放 issue**: 503 · **提交数**: 6899
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 184 | 74 | 22 | 48 | 94 |
-| last60d | 2026-07-20 | 2 | 388 | 104 | 50 | 71 | 297 |
-| 90d | 2026-06-20 | 3 | 670 | 127 | 78 | 85 | 592 |
-| last180d | 2026-03-22 | 7 | 1393 | 172 | 144 | 138 | 1295 |
-| 360d | 2025-09-23 | 13 | 2202 | 204 | 226 | 186 | 2086 |
-| last720d | 2024-09-28 | 34 | 3714 | 226 | 445 | 316 | 3577 |
+| 30d | 2026-08-21 | 1 | 174 | 80 | 22 | 44 | 94 |
+| last60d | 2026-07-22 | 2 | 380 | 111 | 48 | 72 | 297 |
+| 90d | 2026-06-22 | 3 | 657 | 133 | 78 | 85 | 592 |
+| last180d | 2026-03-24 | 7 | 1380 | 178 | 144 | 139 | 1295 |
+| 360d | 2025-09-25 | 13 | 2194 | 210 | 224 | 185 | 2086 |
+| last720d | 2024-09-30 | 34 | 3710 | 232 | 443 | 317 | 3577 |
 
 ## Release 资产
 
@@ -77,4 +77,4 @@ qdrant 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:36:25Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:54:28Z._
