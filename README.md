@@ -4,7 +4,7 @@
 
 Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 
-[![x-cmd/install — qdrant Code Quality Monitoring Repo Card](https://repo.x-cmd.io/qdrant.svg)](https://x-cmd.com/install/qdrant)
+[![x-cmd/install — qdrant Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/qdrant.svg)](https://x-cmd.com/install/qdrant)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **873,585** lines of code across **2159** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 34,741 · **Forks**: 2,689 · **Open issues**: 2,032 · **Contributors**: 205
+- **Stars**: 34,758 · **Forks**: 2,691 · **Open issues**: 2,032 · **Contributors**: 205
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 6866 · **Open PRs**: 251 · **Closed issues**: 1531 · **Open issues**: 501 · **Commits**: 6899
+- **Releases**: 117 · **Merged PRs**: 6891 · **Open PRs**: 235 · **Closed issues**: 1531 · **Open issues**: 501 · **Commits**: 6899
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 182 | 94 | 26 | 41 | 57 |
-| last60d | 2026-07-24 | 2 | 370 | 122 | 45 | 65 | 254 |
-| 90d | 2026-06-24 | 3 | 655 | 145 | 82 | 81 | 543 |
-| last180d | 2026-03-26 | 7 | 1375 | 193 | 147 | 136 | 1263 |
-| 360d | 2025-09-27 | 13 | 2200 | 225 | 227 | 183 | 2065 |
-| last720d | 2024-10-02 | 34 | 3715 | 247 | 444 | 314 | 3577 |
+| 30d | 2026-08-24 | 1 | 191 | 77 | 26 | 39 | 57 |
+| last60d | 2026-07-25 | 2 | 394 | 106 | 45 | 65 | 254 |
+| 90d | 2026-06-25 | 3 | 672 | 129 | 80 | 81 | 543 |
+| last180d | 2026-03-27 | 7 | 1395 | 177 | 145 | 136 | 1263 |
+| 360d | 2025-09-28 | 13 | 2225 | 209 | 227 | 183 | 2065 |
+| last720d | 2024-10-03 | 34 | 3737 | 231 | 444 | 314 | 3577 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for qdrant lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:51:11Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:41:03Z._
