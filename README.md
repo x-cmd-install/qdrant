@@ -32,41 +32,49 @@ Total: **951,948** lines of code across **2352** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.19.2` (2026-10-05)
+- **Latest**: `v1.20.0` (2026-10-22)
 - **Last commit**: 2026-10-21
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 35,180 · **Forks**: 2,769 · **Open issues**: 2,099 · **Contributors**: 218
+- **Stars**: 35,196 · **Forks**: 2,771 · **Open issues**: 2,100 · **Contributors**: 218
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 7188 · **Open PRs**: 308 · **Closed issues**: 1615 · **Open issues**: 484 · **Commits**: 7289
+- **Releases**: 119 · **Merged PRs**: 7190 · **Open PRs**: 312 · **Closed issues**: 1616 · **Open issues**: 484 · **Commits**: 7289
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 282 | 120 | 26 | 41 | 251 |
-| last60d | 2026-08-23 | 2 | 503 | 172 | 60 | 76 | 457 |
-| 90d | 2026-07-24 | 3 | 691 | 198 | 83 | 96 | 667 |
-| last180d | 2026-04-25 | 7 | 1521 | 245 | 193 | 132 | 1482 |
-| 360d | 2025-10-27 | 13 | 2421 | 278 | 304 | 159 | 2354 |
-| last720d | 2024-11-01 | 33 | 3919 | 304 | 506 | 280 | 3914 |
+| 30d | 2026-09-23 | 2 | 278 | 123 | 26 | 40 | 251 |
+| last60d | 2026-08-24 | 3 | 488 | 176 | 60 | 75 | 457 |
+| 90d | 2026-07-25 | 4 | 692 | 202 | 83 | 97 | 667 |
+| last180d | 2026-04-26 | 8 | 1522 | 249 | 194 | 132 | 1482 |
+| 360d | 2025-10-28 | 14 | 2421 | 282 | 305 | 158 | 2354 |
+| last720d | 2024-11-02 | 34 | 3921 | 308 | 507 | 280 | 3914 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [qdrant-aarch64-apple-darwin.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.2/qdrant-aarch64-apple-darwin.tar.gz) | 27.1 MiB | `native/darwin/arm64` |
-| [qdrant-aarch64-unknown-linux-musl.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.2/qdrant-aarch64-unknown-linux-musl.tar.gz) | 29.3 MiB | `native/linux/arm64/musl` |
-| [qdrant-x86_64-apple-darwin.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.2/qdrant-x86_64-apple-darwin.tar.gz) | 29.7 MiB | `native/darwin/x64` |
-| [qdrant-x86_64-pc-windows-msvc.zip](https://github.com/qdrant/qdrant/releases/download/v1.19.2/qdrant-x86_64-pc-windows-msvc.zip) | 28.8 MiB | `native/win/x64` |
-| [qdrant-x86_64-unknown-linux-gnu.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.2/qdrant-x86_64-unknown-linux-gnu.tar.gz) | 31.3 MiB | `native/linux/x64/glibc` |
-| [qdrant-x86_64-unknown-linux-musl.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.19.2/qdrant-x86_64-unknown-linux-musl.tar.gz) | 31.5 MiB | `native/linux/x64/musl` |
-| [qdrant-x86_64.AppImage](https://github.com/qdrant/qdrant/releases/download/v1.19.2/qdrant-x86_64.AppImage) | 33.9 MiB | `other` |
-| [qdrant_1.19.2-1_amd64.deb](https://github.com/qdrant/qdrant/releases/download/v1.19.2/qdrant_1.19.2-1_amd64.deb) | 23.7 MiB | `runtime/deb/amd64` |
+| [qdrant-aarch64-apple-darwin.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-aarch64-apple-darwin.tar.gz) | 27.7 MiB | `native/darwin/arm64` |
+| [qdrant-aarch64-unknown-linux-musl.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-aarch64-unknown-linux-musl.tar.gz) | 30.0 MiB | `native/linux/arm64/musl` |
+| [qdrant-x86_64-apple-darwin.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-x86_64-apple-darwin.tar.gz) | 30.4 MiB | `native/darwin/x64` |
+| [qdrant-x86_64-pc-windows-msvc.zip](https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-x86_64-pc-windows-msvc.zip) | 29.4 MiB | `native/win/x64` |
+| [qdrant-x86_64-unknown-linux-gnu.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-x86_64-unknown-linux-gnu.tar.gz) | 32.1 MiB | `native/linux/x64/glibc` |
+| [qdrant-x86_64-unknown-linux-musl.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-x86_64-unknown-linux-musl.tar.gz) | 32.2 MiB | `native/linux/x64/musl` |
+| [qdrant-x86_64.AppImage](https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-x86_64.AppImage) | 34.4 MiB | `other` |
+| [qdrant_1.20.0-1_amd64.deb](https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant_1.20.0-1_amd64.deb) | 24.2 MiB | `runtime/deb/amd64` |
+
+## Distribution status
+
+Reported by **12** distros on [repology.org](https://repology.org/project/qdrant). **1** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.18.2` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -77,4 +85,4 @@ Install metadata for qdrant lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:36:20Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:40:05Z._
