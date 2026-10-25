@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 29070255,
       "digest": "sha256:531904e822050790bb8c1da6705f801ee48b91eb4c229d0d605ff06f6331b20a",
-      "download_count": 274,
+      "download_count": 357,
       "created_at": "2026-10-22T14:31:21Z",
       "updated_at": "2026-10-22T14:31:23Z",
       "browser_download_url": "https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 31475234,
       "digest": "sha256:bd8a458b8ef8006ce2c603c5bd6d1d973e39d787f794008dd959112e747c3bb7",
-      "download_count": 78,
+      "download_count": 121,
       "created_at": "2026-10-22T14:38:34Z",
       "updated_at": "2026-10-22T14:38:35Z",
       "browser_download_url": "https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-aarch64-unknown-linux-musl.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 31917921,
       "digest": "sha256:94a2e6f6b8ef3a3b5756a11172fd66554ac753e0a71c1d8d8b5349356c084f4d",
-      "download_count": 134,
+      "download_count": 168,
       "created_at": "2026-10-22T14:39:10Z",
       "updated_at": "2026-10-22T14:39:12Z",
       "browser_download_url": "https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-x86_64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 30801664,
       "digest": "sha256:6d13553584fd0411f00637519e293331ff0aa1fb79bd9e30db45839bb75de2be",
-      "download_count": 598,
+      "download_count": 879,
       "created_at": "2026-10-22T14:38:40Z",
       "updated_at": "2026-10-22T14:38:42Z",
       "browser_download_url": "https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-x86_64-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 33618587,
       "digest": "sha256:2361f3df0dedfef31f5444f9f15bd15d6b4a6cba6ad952daecc5fbe3867c5ee6",
-      "download_count": 448,
+      "download_count": 635,
       "created_at": "2026-10-22T14:35:33Z",
       "updated_at": "2026-10-22T14:35:35Z",
       "browser_download_url": "https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-x86_64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 33773335,
       "digest": "sha256:b03a64616a1f41ddab78b480a318466541765f19835318113b1821cbea8df52c",
-      "download_count": 288,
+      "download_count": 431,
       "created_at": "2026-10-22T14:35:35Z",
       "updated_at": "2026-10-22T14:35:37Z",
       "browser_download_url": "https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-x86_64-unknown-linux-musl.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 36112888,
       "digest": "sha256:9ca359250028c9b35e3a260ed23c645f495d6c408ef6fe0d5a8f60917252a922",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-10-22T14:46:56Z",
       "updated_at": "2026-10-22T14:46:58Z",
       "browser_download_url": "https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant-x86_64.AppImage"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 25337728,
       "digest": "sha256:b5487dd5d1db53442c0b4b24f8d3ed5a22226b8fd4d293b1d620a86329a66f6a",
-      "download_count": 70,
+      "download_count": 126,
       "created_at": "2026-10-22T14:47:47Z",
       "updated_at": "2026-10-22T14:47:48Z",
       "browser_download_url": "https://github.com/qdrant/qdrant/releases/download/v1.20.0/qdrant_1.20.0-1_amd64.deb"
