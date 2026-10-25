@@ -38,22 +38,22 @@ Total: **951,948** lines of code across **2352** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 35,219 · **Forks**: 2,771 · **Open issues**: 2,102 · **Contributors**: 218
+- **Stars**: 35,232 · **Forks**: 2,773 · **Open issues**: 2,103 · **Contributors**: 218
 
 ## Totals (cumulative)
 
-- **Releases**: 119 · **Merged PRs**: 7197 · **Open PRs**: 309 · **Closed issues**: 1616 · **Open issues**: 486 · **Commits**: 7289
+- **Releases**: 119 · **Merged PRs**: 7197 · **Open PRs**: 311 · **Closed issues**: 1617 · **Open issues**: 486 · **Commits**: 7289
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 2 | 268 | 121 | 22 | 40 | 251 |
-| last60d | 2026-08-25 | 3 | 491 | 173 | 60 | 77 | 457 |
-| 90d | 2026-07-26 | 4 | 698 | 199 | 83 | 99 | 667 |
-| last180d | 2026-04-27 | 8 | 1507 | 246 | 194 | 134 | 1482 |
-| 360d | 2025-10-29 | 14 | 2420 | 279 | 305 | 160 | 2354 |
-| last720d | 2024-11-03 | 34 | 3928 | 305 | 507 | 282 | 3914 |
+| 30d | 2026-09-25 | 2 | 257 | 118 | 22 | 40 | 251 |
+| last60d | 2026-08-26 | 3 | 486 | 174 | 60 | 78 | 457 |
+| 90d | 2026-07-27 | 4 | 681 | 200 | 82 | 100 | 667 |
+| last180d | 2026-04-28 | 8 | 1495 | 247 | 194 | 135 | 1482 |
+| 360d | 2025-10-30 | 14 | 2413 | 281 | 306 | 160 | 2354 |
+| last720d | 2024-11-04 | 34 | 3914 | 307 | 508 | 282 | 3914 |
 
 ## Release assets
 
@@ -70,7 +70,7 @@ Total: **951,948** lines of code across **2352** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/qdrant). **1** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/qdrant). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -85,4 +85,4 @@ Install metadata for qdrant lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:29:30Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:35:35Z._
