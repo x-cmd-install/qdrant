@@ -34,8 +34,8 @@
   srcname: qdrant
   binname: qdrant
   visiblename: qdrant
-  version: 1.20.0
-  origversion: 1.20.0-1
+  version: 1.20.1
+  origversion: 1.20.1-1
   status: newest
   summary: Vector Database for the next generation of AI applications
   maintainers:
@@ -48,7 +48,7 @@
   visiblename: qdrant-bin
   version: 1.20.0
   origversion: 1.20.0-1
-  status: newest
+  status: outdated
   summary: Vector Database for the next generation of AI applications
   maintainers:
     - jasonlandbridge@aur
@@ -70,8 +70,8 @@
   srcname: databases/qdrant
   binname: qdrant
   visiblename: databases/qdrant
-  version: 1.20.0
-  origversion: 1.20.0,1
+  version: 1.20.1
+  origversion: 1.20.1,1
   status: newest
   summary: Vector search engine and database for the next gen AI applications
   maintainers:
