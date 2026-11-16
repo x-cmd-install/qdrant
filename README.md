@@ -14,14 +14,14 @@ x install qdrant
 
 ## Code insight
 
-Total: **978,406** lines of code across **2477** files in the top 5 languages.
+Total: **979,242** lines of code across **2481** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 471,802 | 19,271 | 62,593 | 2115 |
-| Json | 447,081 | 0 | 0 | 61 |
-| Python | 46,180 | 4,057 | 8,625 | 254 |
-| Protobuf | 2,882 | 1,542 | 530 | 18 |
+| Rust | 472,568 | 19,285 | 62,645 | 2118 |
+| Json | 447,104 | 0 | 0 | 61 |
+| Python | 46,225 | 4,062 | 8,636 | 255 |
+| Protobuf | 2,884 | 1,542 | 530 | 18 |
 | Yaml | 2,837 | 546 | 224 | 29 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **978,406** lines of code across **2477** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.20.1` (2026-11-13)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-15
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 35,562 · **Forks**: 2,817 · **Open issues**: 2,149 · **Contributors**: 224
+- **Stars**: 35,582 · **Forks**: 2,819 · **Open issues**: 2,150 · **Contributors**: 225
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 7320 · **Open PRs**: 309 · **Closed issues**: 1661 · **Open issues**: 488 · **Commits**: 7412
+- **Releases**: 120 · **Merged PRs**: 7324 · **Open PRs**: 311 · **Closed issues**: 1661 · **Open issues**: 489 · **Commits**: 7424
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 155 | 77 | 28 | 36 | 177 |
-| last60d | 2026-09-16 | 3 | 448 | 136 | 57 | 64 | 427 |
-| 90d | 2026-08-17 | 4 | 653 | 183 | 94 | 100 | 650 |
-| last180d | 2026-05-19 | 8 | 1422 | 242 | 203 | 147 | 1402 |
-| 360d | 2025-11-20 | 14 | 2478 | 276 | 324 | 168 | 2423 |
-| last720d | 2024-11-25 | 32 | 3920 | 303 | 542 | 276 | 3868 |
+| 30d | 2026-10-17 | 2 | 151 | 72 | 28 | 37 | 133 |
+| last60d | 2026-09-17 | 3 | 448 | 137 | 57 | 65 | 395 |
+| 90d | 2026-08-18 | 4 | 652 | 185 | 94 | 101 | 613 |
+| last180d | 2026-05-20 | 8 | 1417 | 243 | 203 | 148 | 1369 |
+| 360d | 2025-11-21 | 14 | 2478 | 278 | 322 | 169 | 2403 |
+| last720d | 2024-11-26 | 32 | 3918 | 305 | 542 | 276 | 3879 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for qdrant lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:25:03Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:19:03Z._
