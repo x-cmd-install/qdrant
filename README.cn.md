@@ -32,45 +32,45 @@ x install qdrant
 
 ## 发布
 
-- **最新版本**: `v1.20.1` (2026-11-13)
-- **最近提交**: 2026-11-15
+- **最新版本**: `v1.20.2` (2026-11-16)
+- **最近提交**: 2026-11-16
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 35,582 · **Fork**: 2,819 · **开放 issue**: 2,150 · **贡献者**: 225
+- **Star**: 35,602 · **Fork**: 2,820 · **开放 issue**: 2,158 · **贡献者**: 225
 
 ## 累计统计
 
-- **发布数**: 120 · **已合并 PR**: 7324 · **开放 PR**: 311 · **已关闭 issue**: 1661 · **开放 issue**: 489 · **提交数**: 7424
+- **发布数**: 121 · **已合并 PR**: 7336 · **开放 PR**: 312 · **已关闭 issue**: 1661 · **开放 issue**: 497 · **提交数**: 7425
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 151 | 72 | 28 | 37 | 133 |
-| last60d | 2026-09-17 | 3 | 448 | 137 | 57 | 65 | 395 |
-| 90d | 2026-08-18 | 4 | 652 | 185 | 94 | 101 | 613 |
-| last180d | 2026-05-20 | 8 | 1417 | 243 | 203 | 148 | 1369 |
-| 360d | 2025-11-21 | 14 | 2478 | 278 | 322 | 169 | 2403 |
-| last720d | 2024-11-26 | 32 | 3918 | 305 | 542 | 276 | 3879 |
+| 30d | 2026-10-18 | 3 | 161 | 71 | 28 | 45 | 134 |
+| last60d | 2026-09-18 | 4 | 454 | 134 | 56 | 73 | 396 |
+| 90d | 2026-08-19 | 5 | 660 | 184 | 93 | 109 | 614 |
+| last180d | 2026-05-21 | 9 | 1418 | 243 | 202 | 156 | 1370 |
+| 360d | 2025-11-22 | 15 | 2490 | 279 | 322 | 177 | 2404 |
+| last720d | 2024-11-27 | 33 | 3925 | 306 | 542 | 284 | 3880 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [qdrant-aarch64-apple-darwin.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.1/qdrant-aarch64-apple-darwin.tar.gz) | 28.5 MiB | `native/darwin/arm64` |
-| [qdrant-aarch64-unknown-linux-musl.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.1/qdrant-aarch64-unknown-linux-musl.tar.gz) | 30.8 MiB | `native/linux/arm64/musl` |
-| [qdrant-x86_64-apple-darwin.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.1/qdrant-x86_64-apple-darwin.tar.gz) | 32.0 MiB | `native/darwin/x64` |
-| [qdrant-x86_64-pc-windows-msvc.zip](https://github.com/qdrant/qdrant/releases/download/v1.20.1/qdrant-x86_64-pc-windows-msvc.zip) | 31.0 MiB | `native/win/x64` |
-| [qdrant-x86_64-unknown-linux-gnu.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.1/qdrant-x86_64-unknown-linux-gnu.tar.gz) | 33.8 MiB | `native/linux/x64/glibc` |
-| [qdrant-x86_64-unknown-linux-musl.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.1/qdrant-x86_64-unknown-linux-musl.tar.gz) | 33.9 MiB | `native/linux/x64/musl` |
-| [qdrant-x86_64.AppImage](https://github.com/qdrant/qdrant/releases/download/v1.20.1/qdrant-x86_64.AppImage) | 35.7 MiB | `other` |
-| [qdrant_1.20.1-1_amd64.deb](https://github.com/qdrant/qdrant/releases/download/v1.20.1/qdrant_1.20.1-1_amd64.deb) | 24.9 MiB | `runtime/deb/amd64` |
+| [qdrant-aarch64-apple-darwin.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.2/qdrant-aarch64-apple-darwin.tar.gz) | 28.5 MiB | `native/darwin/arm64` |
+| [qdrant-aarch64-unknown-linux-musl.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.2/qdrant-aarch64-unknown-linux-musl.tar.gz) | 30.8 MiB | `native/linux/arm64/musl` |
+| [qdrant-x86_64-apple-darwin.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.2/qdrant-x86_64-apple-darwin.tar.gz) | 32.0 MiB | `native/darwin/x64` |
+| [qdrant-x86_64-pc-windows-msvc.zip](https://github.com/qdrant/qdrant/releases/download/v1.20.2/qdrant-x86_64-pc-windows-msvc.zip) | 31.0 MiB | `native/win/x64` |
+| [qdrant-x86_64-unknown-linux-gnu.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.2/qdrant-x86_64-unknown-linux-gnu.tar.gz) | 33.8 MiB | `native/linux/x64/glibc` |
+| [qdrant-x86_64-unknown-linux-musl.tar.gz](https://github.com/qdrant/qdrant/releases/download/v1.20.2/qdrant-x86_64-unknown-linux-musl.tar.gz) | 33.9 MiB | `native/linux/x64/musl` |
+| [qdrant-x86_64.AppImage](https://github.com/qdrant/qdrant/releases/download/v1.20.2/qdrant-x86_64.AppImage) | 35.8 MiB | `other` |
+| [qdrant_1.20.2-1_amd64.deb](https://github.com/qdrant/qdrant/releases/download/v1.20.2/qdrant_1.20.2-1_amd64.deb) | 24.9 MiB | `runtime/deb/amd64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/qdrant) 上共有 **12** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/qdrant) 上共有 **12** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -85,4 +85,4 @@ qdrant 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T06:19:05Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T07:58:10Z._
