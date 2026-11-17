@@ -20,9 +20,9 @@
     - qdrant
     - qdrant-debuginfo
   visiblename: qdrant
-  version: 1.19.2
-  origversion: 1.19.2-alt1
-  status: outdated
+  version: 1.20.1
+  origversion: 1.20.1-alt1
+  status: newest
   summary: Qdrant Vector Search Engine
   maintainers:
     - rider@altlinux.org
@@ -70,9 +70,9 @@
   srcname: databases/qdrant
   binname: qdrant
   visiblename: databases/qdrant
-  version: 1.20.1
-  origversion: 1.20.1,1
-  status: newest
+  version: 1.20.2
+  origversion: 1.20.2,1
+  status: untrusted
   summary: Vector search engine and database for the next gen AI applications
   maintainers:
     - yuri@freebsd.org
