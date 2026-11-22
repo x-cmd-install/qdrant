@@ -38,22 +38,22 @@ Total: **979,242** lines of code across **2481** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 35,651 · **Forks**: 2,833 · **Open issues**: 2,172 · **Contributors**: 225
+- **Stars**: 35,662 · **Forks**: 2,839 · **Open issues**: 2,172 · **Contributors**: 225
 
 ## Totals (cumulative)
 
-- **Releases**: 121 · **Merged PRs**: 7385 · **Open PRs**: 324 · **Closed issues**: 1670 · **Open issues**: 502 · **Commits**: 7425
+- **Releases**: 121 · **Merged PRs**: 7385 · **Open PRs**: 331 · **Closed issues**: 1670 · **Open issues**: 502 · **Commits**: 7425
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 167 | 68 | 27 | 47 | 134 |
-| last60d | 2026-09-22 | 4 | 475 | 143 | 62 | 79 | 396 |
-| 90d | 2026-08-23 | 5 | 696 | 193 | 98 | 112 | 614 |
-| last180d | 2026-05-25 | 8 | 1450 | 253 | 207 | 160 | 1370 |
-| 360d | 2025-11-26 | 14 | 2508 | 291 | 325 | 182 | 2404 |
-| last720d | 2024-12-01 | 33 | 3956 | 318 | 550 | 284 | 3880 |
+| 30d | 2026-10-23 | 2 | 163 | 73 | 26 | 45 | 134 |
+| last60d | 2026-09-23 | 4 | 469 | 149 | 61 | 78 | 396 |
+| 90d | 2026-08-24 | 5 | 680 | 199 | 98 | 110 | 614 |
+| last180d | 2026-05-26 | 8 | 1429 | 260 | 199 | 160 | 1370 |
+| 360d | 2025-11-27 | 14 | 2501 | 298 | 324 | 182 | 2404 |
+| last720d | 2024-12-02 | 33 | 3944 | 325 | 550 | 284 | 3880 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for qdrant lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:04:08Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:13:39Z._
