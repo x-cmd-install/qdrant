@@ -1,3 +1,14 @@
+- repo: nix_stable_24_05
+  srcname: qdrant
+  visiblename: qdrant
+  version: 1.9.0
+  origversion: null
+  status: outdated
+  summary: Vector Search Engine for the next generation of AI applications
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: alt_p11
   srcname: qdrant
   binnames:
@@ -20,9 +31,9 @@
     - qdrant
     - qdrant-debuginfo
   visiblename: qdrant
-  version: 1.20.1
-  origversion: 1.20.1-alt1
-  status: outdated
+  version: 1.20.2
+  origversion: 1.20.2-alt1
+  status: newest
   summary: Qdrant Vector Search Engine
   maintainers:
     - rider@altlinux.org
@@ -78,17 +89,6 @@
     - yuri@freebsd.org
   categories:
     - databases
-- repo: nix_stable_24_05
-  srcname: qdrant
-  visiblename: qdrant
-  version: 1.9.0
-  origversion: null
-  status: outdated
-  summary: Vector Search Engine for the next generation of AI applications
-  maintainers:
-    - 7rat13@gmail.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: qdrant
   visiblename: qdrant
@@ -111,18 +111,6 @@
     - prinn.dev@pm.me
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: qdrant
-  visiblename: qdrant
-  version: 1.12.1
-  origversion: null
-  status: outdated
-  summary: Vector Search Engine for the next generation of AI applications
-  maintainers:
-    - 7rat13@gmail.com
-  licenses:
-    - Apache-2.0
-  vulnerable: true
 - repo: nix_stable_25_05
   srcname: qdrant
   visiblename: qdrant
@@ -139,6 +127,18 @@
   srcname: qdrant
   visiblename: qdrant
   version: 1.15.5
+  origversion: null
+  status: outdated
+  summary: Vector Search Engine for the next generation of AI applications
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_24_11
+  srcname: qdrant
+  visiblename: qdrant
+  version: 1.12.1
   origversion: null
   status: outdated
   summary: Vector Search Engine for the next generation of AI applications
