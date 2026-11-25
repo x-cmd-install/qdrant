@@ -38,22 +38,22 @@ x install qdrant
 
 ## 流行度
 
-- **Star**: 35,682 · **Fork**: 2,842 · **开放 issue**: 2,174 · **贡献者**: 225
+- **Star**: 35,698 · **Fork**: 2,845 · **开放 issue**: 2,183 · **贡献者**: 225
 
 ## 累计统计
 
-- **发布数**: 121 · **已合并 PR**: 7390 · **开放 PR**: 342 · **已关闭 issue**: 1671 · **开放 issue**: 503 · **提交数**: 7425
+- **发布数**: 121 · **已合并 PR**: 7403 · **开放 PR**: 352 · **已关闭 issue**: 1671 · **开放 issue**: 512 · **提交数**: 7425
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 168 | 85 | 24 | 47 | 127 |
-| last60d | 2026-09-25 | 4 | 447 | 158 | 57 | 77 | 343 |
-| 90d | 2026-08-26 | 5 | 676 | 209 | 99 | 111 | 580 |
-| last180d | 2026-05-28 | 8 | 1410 | 271 | 196 | 158 | 1312 |
-| 360d | 2025-11-29 | 14 | 2501 | 309 | 325 | 183 | 2363 |
-| last720d | 2024-12-04 | 33 | 3936 | 336 | 551 | 284 | 3880 |
+| 30d | 2026-10-26 | 2 | 181 | 95 | 22 | 56 | 127 |
+| last60d | 2026-09-26 | 4 | 460 | 168 | 57 | 86 | 343 |
+| 90d | 2026-08-27 | 5 | 682 | 219 | 98 | 119 | 580 |
+| last180d | 2026-05-29 | 8 | 1415 | 281 | 196 | 166 | 1312 |
+| 360d | 2025-11-30 | 14 | 2512 | 319 | 325 | 192 | 2363 |
+| last720d | 2024-12-05 | 33 | 3943 | 346 | 551 | 293 | 3880 |
 
 ## Release 资产
 
@@ -68,14 +68,6 @@ x install qdrant
 | [qdrant-x86_64.AppImage](https://github.com/qdrant/qdrant/releases/download/v1.20.2/qdrant-x86_64.AppImage) | 35.8 MiB | `other` |
 | [qdrant_1.20.2-1_amd64.deb](https://github.com/qdrant/qdrant/releases/download/v1.20.2/qdrant_1.20.2-1_amd64.deb) | 24.9 MiB | `runtime/deb/amd64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/qdrant) 上共有 **12** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `1.18.2` | ⚠️ outdated |
-
 ## 改进这些数据
 
 qdrant 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `qdrant` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -85,4 +77,4 @@ qdrant 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:49:23Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:35:47Z._
